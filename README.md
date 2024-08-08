@@ -12,5 +12,5 @@ Chatbot with Rule-Based Responses
 TIC-TAC-TOE AI
 
 ## Task 4:- [open in colab](https://colab.research.google.com/drive/1woaKJYC1v8a-L51vlY9qmSU5M1RoA57k?usp=sharing)
-### Code link of Task 4:- [open](https://github.com/BhavyaCODSOFT/tree/main/Tasks/Task%204%20files)
+### Code link of Task 4:- [open](https://github.com/Bhavya/CODSOFT/tree/main/Tasks/Task%204%20files)
 Recommendation System
